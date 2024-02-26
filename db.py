@@ -61,6 +61,6 @@ def display_onerow_data_from_alltables(conn):
 
 
 
-#initialize_db_from_csv_zip1("/Users/satyammittal/Downloads/linkedin_archive/Complete_LinkedInDataExport_02-23-2024", conn)
+#initialize_db_from_csv_zip1("/dummy_path/Complete_LinkedInDataExport_", conn)
 # conn = duckdb.connect(database='my_data.duckdb', read_only=True)
 # display_onerow_data_from_alltables(conn)
