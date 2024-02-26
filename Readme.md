@@ -1,3 +1,5 @@
+# DATS 
+    -    Data Analysis Through Synthesis
 # Working
     -    This is an implementation of utilizing the text completion and summarization capabilities of LLM's where user can use their personal data and get insights on the same.
     -    By uploading the data using the path of local system folder which containes all files in CSV and then running queries lile "Provide me insights on my job applications                   in 2024 march... etc"
