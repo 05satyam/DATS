@@ -1,6 +1,6 @@
 # Working
     -    This is an implementation of utilizing the text completion and summarization capabilities of LLM's where user can use their personal data and get insights on the same.
-    -    By uploading the data by providing the path of local system folder which containes all files in CSV and then running queries lile "Provide me insights on my job applications            in 2024 march... etc"
+    -    By uploading the data using the path of local system folder which containes all files in CSV and then running queries lile "Provide me insights on my job applications                   in 2024 march... etc"
     -    It is a basic implementation, created to understand langchain framework and a small tool for myself.
 # Language
     -   Python-3.10.0
